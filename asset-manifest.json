@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Screen-Recorder/static/css/main.41b2eb73.css",
+    "main.js": "/Screen-Recorder/static/js/main.e23f5fc3.js",
+    "static/js/453.daf3a739.chunk.js": "/Screen-Recorder/static/js/453.daf3a739.chunk.js",
+    "index.html": "/Screen-Recorder/index.html",
+    "main.41b2eb73.css.map": "/Screen-Recorder/static/css/main.41b2eb73.css.map",
+    "main.e23f5fc3.js.map": "/Screen-Recorder/static/js/main.e23f5fc3.js.map",
+    "453.daf3a739.chunk.js.map": "/Screen-Recorder/static/js/453.daf3a739.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b2eb73.css",
+    "static/js/main.e23f5fc3.js"
+  ]
+}
