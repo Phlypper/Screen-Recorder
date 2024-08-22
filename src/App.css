@@ -1,12 +1,26 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
+.App { 
+  text-align: center; 
+  padding: 20px; 
+  background-color: black;
+  color: white;
+  } 
+  .App-header { 
+  background-color: #282c34; 
+  padding: 20px; 
+  color: white; 
+  } 
+  main { 
+  margin-top: 20px; 
+  } 
+  button { 
+  padding: 10px 20px; 
+  margin: 10px; 
+  font-size: 16px; 
+  cursor: pointer; 
+  } 
+  button:focus { 
+  outline: 2px solid teal; 
+  }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
